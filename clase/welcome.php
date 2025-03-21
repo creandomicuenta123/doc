@@ -1,3 +1,4 @@
 <?php
-echo('este es mi primer numero ')
+echo ('esto es php ');
+
 ?>
